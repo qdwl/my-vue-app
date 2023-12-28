@@ -1,5 +1,4 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
@@ -8,6 +7,6 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <style>
   #app {
-    text-align: center;
+    height: 100%;
   }
 </style>
